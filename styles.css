@@ -1,0 +1,26 @@
+header{
+    padding: 40px;
+    background-color: #f2f2f2;
+    font-family: 'Arial', sans-serif;
+}
+
+a{
+    margin-right: 20px;
+}
+
+p{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Arial', sans-serif;
+    font-size: 26px;
+}
+
+.upiicsa{
+    width: 80%;
+    height: auto;
+    margin: 10% auto;
+    display: block;
+}
